@@ -1,2 +1,2 @@
-# C---Aplicando-Princ-pios-SOLID-na-pr-tica
+# C---Aplicando-Principios-SOLID-na-pratica
 Curso oferecido por Carlos Macorattti
